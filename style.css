@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url("../Disneyplus/img/s.jpg");
+    background-size: cover;
+   
+}
+
+.logo{
+
+    max-width: 320px;
+    position: relative;
+    top: 228px;
+    left: 65px;
+}
+
+.hero-content{
+    padding-left: 200px;
+}
+
+h1{
+    font-size: 25px;
+    font-family: sans-serif;
+    color: #f9f9f9;
+    position: relative;
+    top: 200px;
+    left: -15px;
+ }
+
+a {
+    color: #f9f9f9;
+    font-size: 18px;
+    font-family: sans-serif;
+    text-decoration: none; 
+}
+
+ .button{
+    position: relative;
+    top: 270px;
+    left: -70px;
+    border-radius: 5px;
+    width:640px;  
+    height:50px;  
+    background-color:RGB(100, 33, 255);
+    text-align: center;
+    padding-top: 25px;
+ }
+
+ 
+
